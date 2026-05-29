@@ -1,8 +1,6 @@
 # Learning-to-Tune-Pure-Pursuit-in-Autonomous-Racing: Joint-Lookahead-and-Steering-Gain-Control-With-PPO
 
-# Learning to Tune Pure Pursuit in Autonomous Racing With PPO
 
-**Joint Lookahead and Steering-Gain Control for F1TENTH-Style Autonomous Racing**
 
 This repository provides code, trained models, and example files related to the paper:
 
@@ -264,32 +262,6 @@ To reproduce results as closely as possible:
 * Confirm that the Ackermann drive topic matches your simulator or real vehicle.
 * Test in simulation before deploying on hardware.
 
-## Suggested GitHub Topics
-
-Add these topics to the GitHub repository:
-
-```text
-f1tenth
-ros2
-autonomous-racing
-pure-pursuit
-reinforcement-learning
-ppo
-stable-baselines3
-path-tracking
-autonomous-driving
-sim-to-real
-robotics
-ackermann
-```
-
-## Repository Description
-
-Suggested GitHub description:
-
-```text
-ROS 2 implementation of PPO-based lookahead and steering-gain tuning for Pure Pursuit in F1TENTH autonomous racing.
-```
 
 ## Authors
 
@@ -301,11 +273,6 @@ West Virginia University
 Lane Department of Computer Science and Electrical Engineering
 West Virginia University
 
-## License
-
-Please add an appropriate license file before public reuse.
-
-If you want the code to be broadly reusable and citable, consider adding an open-source license such as MIT, BSD-3-Clause, or Apache-2.0 after confirming with all co-authors and the lab.
 
 ## Acknowledgment
 
